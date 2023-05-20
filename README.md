@@ -58,7 +58,7 @@
   <li><b>React Native</b></li>
   <li><b>IONIC</b></li>
 </ul>
-<h2> Projects with installation support and code explaination for Premium contact officially: info@app-techsolutions.com or visit :<a href="https://online-shop.app-techsolutions.com/">Ecommerce Codeigniter Project</a></h2>
+<h2> Projects with installation support and code explaination for Premium contact officially: info@app-techsolutions.com or visit :<a href="">Ecommerce Codeigniter Project</a></h2>
 
 # Installation
 
@@ -91,7 +91,7 @@
 
 12. first register and then login
 
-13. admin login details  Email=admin@gmail.com or username = admin and Password=admon.
+13. admin login details  Email=admin@gmail.com or username = admin and Password=admin.
 
 ## If you like my project 
 Bye me Cup of coffee
