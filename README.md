@@ -1,6 +1,6 @@
 # Ecommerce-Codeigniter-Project
 
-![GitHub](https://img.shields.io/github/license/parvezkhanats/online-shopping-system-advanced)
+![GitHub](https://img.shields.io/github/license/parvezkhanats/ecommerce-codeigniter)
 ![](https://visitor-badge.glitch.me/badge?page_id=parvezkhanats.shop)
 
 <a href="https://www.buymeacoffee.com/parvezkhanats" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
@@ -66,12 +66,12 @@
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/parvezkhanats/online-shopping-system-with-advanced-admin-page.git)  
+3. Download project from github(https://github.com/parvezkhanats/ecommerce-codeigniter.git)  
     OR follow gitbash commands
     
 1. cd C:\\xampp\htdocs\
     
-2. git clone https://github.com/parvezkhanats/online-shopping-system-with-advanced-admin-page.git
+2. git clone https://github.com/parvezkhanats/ecommerce-codeigniter.git
     
 4. extract files in C:\\xampp\htdocs\.
 
@@ -79,28 +79,28 @@
 
 6. click on new at side navbar.
 
-7. give a database name as (onlineshop) hit on create button.
+7. give a database name as (E-SHOPPER) hit on create button.
 
 8. after creating database name click on import.
 
-9. browse the file in directory[online-shopping-system-with-advanced-admin-page/database/onlineshop.sql].
+9. browse the file in directory[ecommerce-codeigniter/ecommerce_codeigniter(1).sql].
 
 10. after importing successfully.
 
-11. open any browser and type http://localhost/online-shopping-system-with-advanced-admin-page-master.
+11. open any browser and type http://localhost/ecommerce-codeigniter.
 
 12. first register and then login
 
-13. admin login details  Email=admin@gmail.com or username = admin and Password=123456789.
+13. admin login details  Email=admin@gmail.com or username = admin and Password=admon.
 
 ## If you like my project 
 Bye me Cup of coffee
 
 
 ## visit my other repository with different admin pages with below link
-https://github.com/parvezkhanats/online-shopping-system-advanced
+https://github.com/parvezkhanats/ecommerce-codeigniter
 
-https://github.com/parvezkhanats/event-management
+https://github.com/parvezkhanats/ecommerce-codeigniter
 
 ##  If you like my project hit a star button
 
