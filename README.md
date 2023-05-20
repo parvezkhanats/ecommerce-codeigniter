@@ -107,8 +107,8 @@ https://github.com/parvezkhanats/event-management
 
 
 # Screenshots
-![Image of adduser](https://github.com/parvezkhanats/online-shopping-system-advanced-master/blob/master/screenshot/adduser.png)
-![Image of adminproductadd](https://github.com/parvezkhanats/online-shopping-system-advanced-master/blob/master/screenshot/adminproductadd.png)
+![Image of adduser](https://github.com/parvezkhanats/ecommerce-codeigniter/blob/master/screenshots/E-Shopper%20Codeigniter%20Screenshot%2001.png)
+![Image of adminproductadd](https://github.com/parvezkhanats/ecommerce-codeigniter/blob/master/screenshots/E-Shopper%20Codeigniter%20Screenshot%2002.png)
 ![Image of manageuser](https://github.com/parvezkhanats/online-shopping-system-advanced-master/blob/master/screenshot/manageuser.png)
 ![Image of manageuseradmin](https://github.com/parvezkhanats/online-shopping-system-advanced-master/blob/master/screenshot/manageuseradmin.png)
 ![Image of productlistadmin](https://github.com/parvezkhanats/online-shopping-system-advanced-master/blob/master/screenshot/productlistadmin.png)
