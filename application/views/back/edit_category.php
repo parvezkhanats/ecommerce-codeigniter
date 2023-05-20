@@ -4,7 +4,7 @@
         <div class="row">
            <!-- page header -->
            <div class="col-lg-12">
-            <h1 class="page-header">Forms Element</h1>
+            <h1 class="page-header">Update Category</h1>
         </div>
         <!--end page header -->
     </div>

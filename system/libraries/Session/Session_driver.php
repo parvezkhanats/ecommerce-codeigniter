@@ -120,6 +120,7 @@ abstract class CI_Session_driver implements SessionHandlerInterface {
 	 *
 	 * @return	bool
 	 */
+	#[\ReturnTypeWillChange]
 	protected function _cookie_destroy()
 	{
 		return setcookie(

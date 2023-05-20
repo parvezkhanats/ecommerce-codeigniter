@@ -2,7 +2,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bootsrtap Free Admin Template - SIMINTA | Admin Dashboad Template</title>
+    <title>Bootsrtap Free Admin Template - E-SHOPPER | Admin Dashboad Template</title>
     <!-- Core CSS - Include with every page -->
 
     <script src="<?php echo base_url()?>assets/back/plugins/jquery-1.10.2.js"></script>
